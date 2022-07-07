@@ -1,7 +1,7 @@
 {
   "name": "correst-serverless",
   "displayName": "Correst Serverless",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Serverless Web Service for track Correios objects",
   "author": "Giovani de Oliveira <giovanioliveira@outlook.com.br>",
   "license": "MIT",
@@ -23,7 +23,7 @@
     "vercel-serverless"
   ],
   "dependencies": {
-    "correios.js": "^4.0.0"
+    "correios.js": "^5.0.0"
   },
   "devDependencies": {
     "eslint": "^8.12.0",

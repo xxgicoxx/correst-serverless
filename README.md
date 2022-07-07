@@ -26,7 +26,7 @@ vercel
 
 # Example
 ````
-curl --location --request GET 'https://correst-serverless-{USER}.vercel.app/api/correios?code=PX547037143BR'
+curl --location --request GET 'https://correst-serverless-{USER}.vercel.app/api/track?code=PX547037143BR'
 ````
 
 # Response example
